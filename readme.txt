@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 this is test version content.
-this are test3
+this is a test3 
