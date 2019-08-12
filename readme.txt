@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 
 this is test version content.
 this is a test3,fix bug;
-new line 
+new line
+git tracks changes; 
